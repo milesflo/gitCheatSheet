@@ -30,12 +30,12 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git commit -m "<commit message>"` - __Fill Me Out__
 
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+`$ git branch <branch name>` - Creates a new branch within the current repository, using the given name.
 
-`$ git branch` - __Fill Me Out__
+`$ git branch` - Displays all existing branches in the current repository.
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git checkout <branch name>` - Allows the user to switch between branches in the current repository.
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - Allows the user to merge changes between different branches.

@@ -12,15 +12,14 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 #### Repo Status
 `$ git status` - Check the status of your current repository and see which files have changed.
 
-`$ git diff` - __Fill Me Out__
+`$ git diff` - Show changes between the working tree and the index or a tree.
 
 #### Repo History
-`$ git log` - __Fill Me Out__
+`$ git log` - Shows the commit logs.
 
-`$ git log --oneline --decorate --color --graph --all` - __Fill Me Out__
+`$ git log --oneline --decorate --color --graph --all` - logs one line with parameters.
 
-`$ git log -p [filename]` __Fill Me Out__
-
+`$ git log -p [filename]` - preprocesses the .pic file.
 #### Stage files to commit
 `$ git add <filename>` - __Fill Me Out__
 

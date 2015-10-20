@@ -22,12 +22,14 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git log -p [filename]` __Fill Me Out__
 
 #### Stage files to commit
-`$ git add <filename>` - __Fill Me Out__
+`$ git add <filename>` - Add file contents to the index
 
-`$ git add -A` - __Fill Me Out__
+`$ git add -A` - Update the index not only where the working tree has a file matching <pa$
+
+If no <pathspec> is given when -A option is used, all files in the entire working tree ar$
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
+`$ git commit -m "<commit message>"` - Commits the staged snapshot with a message.
 
 #### Branching
 `$ git branch <branch name>` - __Fill Me Out__

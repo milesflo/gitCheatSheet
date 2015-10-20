@@ -24,9 +24,7 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 #### Stage files to commit
 `$ git add <filename>` - Add file contents to the index
 
-`$ git add -A` - Update the index not only where the working tree has a file matching <pa$
-
-If no <pathspec> is given when -A option is used, all files in the entire working tree
+`$ git add -A` - Update the index not only where the working tree has a file matching. If no <pathspec> is given when -A option is used, all files in the entire working tree
 
 #### Commit changes in staged files
 `$ git commit -m "<commit message>"` - Commits the staged snapshot with a message.

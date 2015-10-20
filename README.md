@@ -26,7 +26,7 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 `$ git add -A` - Update the index not only where the working tree has a file matching <pa$
 
-If no <pathspec> is given when -A option is used, all files in the entire working tree ar$
+If no <pathspec> is given when -A option is used, all files in the entire working tree
 
 #### Commit changes in staged files
 `$ git commit -m "<commit message>"` - Commits the staged snapshot with a message.
